@@ -1,1 +1,1 @@
-constanet rayon=2;
+constant rayon=2;
